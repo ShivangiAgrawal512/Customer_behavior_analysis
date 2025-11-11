@@ -2,17 +2,18 @@
 
 📘 Overview
 This end-to-end data analytics project explores customer shopping behavior to uncover insights that guide product, marketing, and operational strategies.
+
 The analysis spans data cleaning and transformation in Python, advanced querying in PostgreSQL, interactive visualizations in Power BI, and storytelling through an AI-generated presentation using Gamma.
 
 🧾 Dataset
-Source: Publicly available synthetic dataset simulating e-commerce transactions.
-Total Records: 3,900 purchases
-Columns: 18 customer and purchase attributes
-Key Features:
+1. Source: Publicly available synthetic dataset simulating e-commerce transactions.
+2. Total Records: 3,900 purchases
+3. Columns: 18 customer and purchase attributes
+4. Key Features:
 -Demographics (Age, Gender, Location)
 -Purchase details (Category, Amount, Discount, Shipping Type)
 -Engagement metrics (Review Rating, Subscription Status, Previous Purchases)
-Missing Data:
+5. Missing Data:
 Only 37 missing values in review_rating, handled with median imputation per category for accuracy.
 
 🧰 Tools & Technologies
